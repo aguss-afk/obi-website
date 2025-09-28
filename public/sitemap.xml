@@ -3,73 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:1313/pages/obia/</loc>
+    <loc>http://localhost:1313/pages/obia/</loc>
     <lastmod>2025-09-28T10:05:45-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/pages/</loc>
+    <loc>http://localhost:1313/pages/</loc>
     <lastmod>2025-09-28T10:05:45-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/pages/contacto/</loc>
+    <loc>http://localhost:1313/pages/contacto/</loc>
     <lastmod>2025-09-28T09:34:24-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/pages/serparte/</loc>
+    <loc>http://localhost:1313/pages/serparte/</loc>
     <lastmod>2025-09-28T09:34:19-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/pages/oii/</loc>
+    <loc>http://localhost:1313/pages/oii/</loc>
     <lastmod>2025-09-28T09:34:05-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/pages/ioi/</loc>
+    <loc>http://localhost:1313/pages/ioi/</loc>
     <lastmod>2025-09-28T09:34:01-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2025-09-28T09:33:08-04:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/posts/pluris2025/</loc>
-    <lastmod>2025-09-28T09:33:08-04:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/pages/about/</loc>
+    <loc>http://localhost:1313/pages/about/</loc>
     <lastmod>2025-09-28T08:45:11-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-09-28T08:41:43-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/posts/ioi2025/</loc>
+    <loc>http://localhost:1313/posts/ioi2025/</loc>
     <lastmod>2025-07-27T09:32:53-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/posts/oii2025/</loc>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-07-27T09:32:53-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/oii2025/</loc>
     <lastmod>2025-06-22T09:33:01-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

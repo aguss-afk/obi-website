@@ -16,6 +16,11 @@
   weight = 15
 
 [[main]]
+  name = "Posts"
+  pageRef = "posts"
+  weight = 13
+
+[[main]]
   name = "Olimpiadas"
   weight = 10
 

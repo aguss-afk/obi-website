@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Olimpiada Boliviana de Informatica</title>
+    <link>//localhost:1313/page/</link>
+    <description>Recent content in Pages on Olimpiada Boliviana de Informatica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Sun, 28 Sep 2025 10:05:45 -0400</lastBuildDate><atom:link href="//localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Olimpiada Boliviana de Inteligencia Artificial</title>
+      <link>//localhost:1313/page/obia/</link>
+      <pubDate>Sun, 28 Sep 2025 10:05:45 -0400</pubDate>
+      
+      <guid>//localhost:1313/page/obia/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>//localhost:1313/page/contacto/</link>
+      <pubDate>Sun, 28 Sep 2025 09:34:24 -0400</pubDate>
+      
+      <guid>//localhost:1313/page/contacto/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/page/serparte/</link>
+      <pubDate>Sun, 28 Sep 2025 09:34:19 -0400</pubDate>
+      
+      <guid>//localhost:1313/page/serparte/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Olimpiada Iberoamericana de Informatica</title>
+      <link>//localhost:1313/page/oii/</link>
+      <pubDate>Sun, 28 Sep 2025 09:34:05 -0400</pubDate>
+      
+      <guid>//localhost:1313/page/oii/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>International Olympiad in Informatics</title>
+      <link>//localhost:1313/page/ioi/</link>
+      <pubDate>Sun, 28 Sep 2025 09:34:01 -0400</pubDate>
+      
+      <guid>//localhost:1313/page/ioi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Acerca de</title>
+      <link>//localhost:1313/page/about/</link>
+      <pubDate>Sun, 28 Sep 2025 08:45:11 -0400</pubDate>
+      
+      <guid>//localhost:1313/page/about/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

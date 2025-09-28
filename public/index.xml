@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Olimpiada Boliviana de Informatica</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Olimpiada Boliviana de Informatica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Sun, 28 Sep 2025 08:41:43 -0400</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Olimpiada Boliviana de Inteligencia Artificial</title>
+      <link>//localhost:1313/pages/obia/</link>
+      <pubDate>Sun, 28 Sep 2025 10:05:45 -0400</pubDate>
+      
+      <guid>//localhost:1313/pages/obia/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>//localhost:1313/pages/contacto/</link>
+      <pubDate>Sun, 28 Sep 2025 09:34:24 -0400</pubDate>
+      
+      <guid>//localhost:1313/pages/contacto/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/pages/serparte/</link>
+      <pubDate>Sun, 28 Sep 2025 09:34:19 -0400</pubDate>
+      
+      <guid>//localhost:1313/pages/serparte/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Olimpiada Iberoamericana de Informatica</title>
+      <link>//localhost:1313/pages/oii/</link>
+      <pubDate>Sun, 28 Sep 2025 09:34:05 -0400</pubDate>
+      
+      <guid>//localhost:1313/pages/oii/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>International Olympiad in Informatics</title>
+      <link>//localhost:1313/pages/ioi/</link>
+      <pubDate>Sun, 28 Sep 2025 09:34:01 -0400</pubDate>
+      
+      <guid>//localhost:1313/pages/ioi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Resultados Olimpiadas Cientificas Estudiantiles 2025</title>
+      <link>//localhost:1313/posts/pluris2025/</link>
+      <pubDate>Sun, 28 Sep 2025 09:33:08 -0400</pubDate>
+      
+      <guid>//localhost:1313/posts/pluris2025/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Acerca de</title>
+      <link>//localhost:1313/pages/about/</link>
+      <pubDate>Sun, 28 Sep 2025 08:45:11 -0400</pubDate>
+      
+      <guid>//localhost:1313/pages/about/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>IOI Bolivia 2025</title>
+      <link>//localhost:1313/posts/ioi2025/</link>
+      <pubDate>Sun, 27 Jul 2025 09:32:53 -0400</pubDate>
+      
+      <guid>//localhost:1313/posts/ioi2025/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Resultados Olimpiada Iberoamericana de Informatica</title>
+      <link>//localhost:1313/posts/oii2025/</link>
+      <pubDate>Sun, 22 Jun 2025 09:33:01 -0400</pubDate>
+      
+      <guid>//localhost:1313/posts/oii2025/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

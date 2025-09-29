@@ -41,13 +41,22 @@
   pageRef = "pages/obia.md"
   weight = 20
 [[main]]
-  name = "Acerca de"
-  pageRef = "pages/about.md" 
-  weight = 20
+  identifier = "github2"
+  pre = "github"
+  url = "https://github.com/Olimpiada-Boliviana-De-Informatica"
+  weight = 40
 [[main]]
-  name = "Contacto"
-  pageRef = "pages/contacto.md" 
-  weight = 20
+  identifier = "instagram"
+  pre = "instagram"
+  url = "https://www.instagram.com/obi_informatica/"
+  weight = 41
+[[main]]
+  identifier = "facebook"
+  pre = "facebook"
+  url = "https://www.facebook.com/olimpiadabolivianadeinformatica"
+  weight = 42
+
+
 #[[subnavigation]]
 #  name = "An interesting topic"
 #  pageRef = "tags/interesting-topic"

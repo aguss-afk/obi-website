@@ -20,16 +20,6 @@
     </item>
     
     <item>
-      <title>Contacto</title>
-      <link>http://localhost:1313/pages/contacto/</link>
-      <pubDate>Sun, 28 Sep 2025 09:34:24 -0400</pubDate>
-      
-      <guid>http://localhost:1313/pages/contacto/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title></title>
       <link>http://localhost:1313/pages/serparte/</link>
       <pubDate>Sun, 28 Sep 2025 09:34:19 -0400</pubDate>
@@ -55,16 +45,6 @@
       <pubDate>Sun, 28 Sep 2025 09:34:01 -0400</pubDate>
       
       <guid>http://localhost:1313/pages/ioi/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Acerca de</title>
-      <link>http://localhost:1313/pages/about/</link>
-      <pubDate>Sun, 28 Sep 2025 08:45:11 -0400</pubDate>
-      
-      <guid>http://localhost:1313/pages/about/</guid>
       <description></description>
       
     </item>

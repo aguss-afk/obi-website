@@ -15,12 +15,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/pages/contacto/</loc>
-    <lastmod>2025-09-28T09:34:24-04:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/pages/serparte/</loc>
     <lastmod>2025-09-28T09:34:19-04:00</lastmod>
     <changefreq>daily</changefreq>
@@ -35,12 +29,6 @@
   <url>
     <loc>http://localhost:1313/pages/ioi/</loc>
     <lastmod>2025-09-28T09:34:01-04:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/pages/about/</loc>
-    <lastmod>2025-09-28T08:45:11-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
